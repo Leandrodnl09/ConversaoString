@@ -1,0 +1,15 @@
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\ConversaoString\bin\Debug\net7.0\ConversaoString.exe
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\ConversaoString\bin\Debug\net7.0\ConversaoString.deps.json
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\ConversaoString\bin\Debug\net7.0\ConversaoString.runtimeconfig.json
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\ConversaoString\bin\Debug\net7.0\ConversaoString.dll
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\ConversaoString\bin\Debug\net7.0\ConversaoString.pdb
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\ConversaoString\obj\Debug\net7.0\ConversaoString.csproj.AssemblyReference.cache
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\ConversaoString\obj\Debug\net7.0\ConversaoString.GeneratedMSBuildEditorConfig.editorconfig
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\ConversaoString\obj\Debug\net7.0\ConversaoString.AssemblyInfoInputs.cache
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\ConversaoString\obj\Debug\net7.0\ConversaoString.AssemblyInfo.cs
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\ConversaoString\obj\Debug\net7.0\ConversaoString.csproj.CoreCompileInputs.cache
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\ConversaoString\obj\Debug\net7.0\ConversaoString.dll
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\ConversaoString\obj\Debug\net7.0\refint\ConversaoString.dll
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\ConversaoString\obj\Debug\net7.0\ConversaoString.pdb
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\ConversaoString\obj\Debug\net7.0\ConversaoString.genruntimeconfig.cache
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\ConversaoString\obj\Debug\net7.0\ref\ConversaoString.dll
